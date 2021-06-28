@@ -1,0 +1,7 @@
+metier\entities\Produit.class
+dao\IProduitDao.class
+web\ControleurServlet.class
+dao\TestDao.class
+web\ProduitModel.class
+dao\ProduitDaoImpl.class
+dao\SingletonConnection.class
